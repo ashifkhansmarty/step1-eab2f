@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <b>Get started</b> <h3><a href="https://locked-content.com/?5087f8e">Click Here!</a></h3>
         </p>
       </main>
 
