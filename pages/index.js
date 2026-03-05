@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          <b>Get started</b> <h3><a href="https://locked-content.com/?5087f8e">Click Here!</a></h3>
+          <b>Get started</b> <h3><a href="https://unlock-content.net/?895009d">Click Here!</a></h3>
         </p>
       </main>
 
